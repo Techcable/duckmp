@@ -1,0 +1,11 @@
+[package]
+name = "duckmp"
+version = "0.1.0"
+edition = "2018"
+license = "MIT OR Apache 2.0"
+description = "A fast multiple-precision arithmetic library"
+readme-file = "README.md"
+
+[dependencies]
+num-traits = "0.2.14"
+thiserror = "1"
